@@ -4,7 +4,7 @@
  * convert_alpha_numeric - convert digits to char
  * @nb: digit or number
  * @upper: upper case check
- * Return: converted value
+ * Return: converted value.
  */
 
 int convert_alpha_numeric(int nb, int upper)
