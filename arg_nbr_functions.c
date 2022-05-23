@@ -75,7 +75,7 @@ int print_hexa_lower(va_list ap)
 /**
  * print_hexa_upper - print hexa upper
  * @ap: arg list
- * Return: number of printed char
+ * Return: number of printed char.
  */
 
 int print_hexa_upper(va_list ap)
