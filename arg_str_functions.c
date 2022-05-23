@@ -24,7 +24,7 @@ int print_char(va_list ap)
 /**
  * print_str - print string
  * @ap: arg list
- * Return: number of printed char
+ * Return: number of printed char.
  */
 
 int print_str(va_list ap)
