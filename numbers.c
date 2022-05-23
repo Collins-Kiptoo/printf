@@ -6,7 +6,7 @@
 /**
  * print_unsigned_number - print unsigned number
  * @n: unsigned int to print
- * Return: number of printed chars
+ * Return: number of printed chars.
  */
 
 int print_unsigned_number(unsigned int n)
