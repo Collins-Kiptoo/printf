@@ -29,7 +29,7 @@ char *convert_base_pointer(unsigned long p);
 
 /**
  * struct flags_printf - struct conversion to function
- * @c: flag string
+ * @c: flag string.
  * @f: pointer to func
  */
 
